@@ -1,0 +1,17 @@
+h1 {
+    background-color: yellow;
+    font-family: Verdana sans-serif
+}
+
+.risotto {
+    font-weight: bold;
+    background: blue;
+    color: green;
+}
+
+.curry {
+    font-weight: 750;
+    font-size: 50px;
+    background: coral;
+    color: cornflowerblue
+}
